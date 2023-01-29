@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Lecture Details
+
+1. Introduction
+2. Hello World
+3. Project Structure
+4. Routing Section Intro
+5. Routing with Pages
+6. Nested Routes
+7. Dynamic Routes
+8. Nested Dynamic Routes
+
 ## Getting Started
 
 First, run the development server:
