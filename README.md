@@ -12,6 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 8. Nested Dynamic Routes
 9. Catch All Routes
 10. Link Component Navigation
+11. Navigating Programmatically
 
 ## Getting Started
 
