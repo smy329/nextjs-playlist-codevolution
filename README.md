@@ -13,6 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 9. Catch All Routes
 10. Link Component Navigation
 11. Navigating Programmatically
+12. Custom 404 Page
 
 ## Getting Started
 
