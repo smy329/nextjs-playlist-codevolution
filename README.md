@@ -10,6 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 6. Nested Routes
 7. Dynamic Routes
 8. Nested Dynamic Routes
+9. Catch All Routes
 
 ## Getting Started
 
