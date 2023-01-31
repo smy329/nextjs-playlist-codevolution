@@ -1,4 +1,5 @@
 import React from 'react';
+import User from '../components/user';
 
 //receive props from getStaticProps at build time
 const UserList = (props) => {
@@ -10,9 +11,7 @@ const UserList = (props) => {
       {users.map((user) => {
         return (
           <div key={user.id}>
-            <p>
-              {user.name}: {user.email}
-            </p>
+            <User user={user} />
           </div>
         );
       })}
