@@ -17,6 +17,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 17.Static Generation with GetStaticProps
 18.Pages Vs Components
 22.SSG with Dynamic Parameters
+25.Fetching Paths for getStaticPaths
 
 ## Getting Started
 
