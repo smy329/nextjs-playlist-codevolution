@@ -2,18 +2,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Lecture Details
 
-1. Introduction
-2. Hello World
-3. Project Structure
-4. Routing Section Intro
-5. Routing with Pages
-6. Nested Routes
-7. Dynamic Routes
-8. Nested Dynamic Routes
-9. Catch All Routes
-10. Link Component Navigation
-11. Navigating Programmatically
-12. Custom 404 Page
+1.Introduction
+2.Hello World
+3.Project Structure
+4.Routing Section Intro
+5.Routing with Pages
+6.Nested Routes
+7.Dynamic Routes
+8.Nested Dynamic Routes
+9.Catch All Routes
+10.Link Component Navigation
+11.Navigating Programmatically
+12.Custom 404 Page
+17.Static Generation with GetStaticProps
+18.Pages Vs Components
+22.SSG with Dynamic Parameters
 
 ## Getting Started
 
