@@ -19,6 +19,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 22.SSG with Dynamic Parameters
 25.Fetching Paths for getStaticPaths
 32.SSR with getServerSideProps
+33.SSR with Dynamic Parameters
 
 ## Getting Started
 
