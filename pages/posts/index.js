@@ -24,6 +24,7 @@ const PostList = ({ posts }) => {
 export default PostList;
 
 export async function getStaticProps() {
+  console.log('Generating/Regenerating Product List');
   const response = await fetch('https://jsonplaceholder.typicode.com/posts');
   const data = await response.json();
   //console.log(data);
@@ -32,5 +33,8 @@ export async function getStaticProps() {
     props: {
       posts: data,
     },
+    // by setting revalidate we are introducing ISR(Incremental Static Regeneration)
+    revalidate: 10,
+    //here 10 means we area asking nextjs to revalidaet this page after every 10 seconds
   };
 }

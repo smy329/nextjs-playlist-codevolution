@@ -18,6 +18,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 18.Pages Vs Components
 22.SSG with Dynamic Parameters
 25.Fetching Paths for getStaticPaths
+32.SSR with getServerSideProps
 
 ## Getting Started
 
