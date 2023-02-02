@@ -1,4 +1,35 @@
 {
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 01",
+      "description": "Description 01",
+      "category": "sports",
+      "date": "April 25"
+    },
+    {
+      "id": 2,
+      "title": "Event 02",
+      "description": "Description 02",
+      "category": "tech",
+      "date": "May 25"
+    },
+    {
+      "id": 3,
+      "title": "Event 03",
+      "description": "Description 03",
+      "category": "food",
+      "date": "June 25"
+    },
+    {
+      "id": 4,
+      "title": "Event 04",
+      "description": "Description 04",
+      "category": "sports",
+      "date": "July 25"
+    }
+  ],
+
   "dashboard": {
     "posts": 5,
     "likes": 100,

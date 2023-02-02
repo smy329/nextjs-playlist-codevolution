@@ -22,6 +22,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 33.SSR with Dynamic Parameters
 36.Client-side Data Fetching
 37.SWR for Client-side Data Fetching
+38.Pre-rendering + Client-side Data Fetching
 
 ## Getting Started
 
