@@ -20,7 +20,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 25.Fetching Paths for getStaticPaths
 32.SSR with getServerSideProps
 33.SSR with Dynamic Parameters
-34.Client-side Data Fetching
+36.Client-side Data Fetching
+37.SWR for Client-side Data Fetching
 
 ## Getting Started
 
