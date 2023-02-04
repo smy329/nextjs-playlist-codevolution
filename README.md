@@ -23,6 +23,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 36.Client-side Data Fetching
 37.SWR for Client-side Data Fetching
 38.Pre-rendering + Client-side Data Fetching
+41.API Routes
+42.API Get Request
+43.API Post Request
+45.API Delete Request
 
 ## Getting Started
 
