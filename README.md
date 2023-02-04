@@ -27,6 +27,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 42.API Get Request
 43.API Post Request
 45.API Delete Request
+47.APIs & Pre-rendering
 
 ## Getting Started
 

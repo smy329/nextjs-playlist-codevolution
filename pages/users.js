@@ -22,6 +22,8 @@ const UserList = (props) => {
 export default UserList;
 
 export async function getStaticProps() {
+  //You can use only external api in prerendering
+  //Using own api in prerndering is not recommended
   const response = await fetch('https://jsonplaceholder.typicode.com/users');
   const data = await response.json();
   //   console.log(data);
